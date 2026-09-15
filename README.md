@@ -27,5 +27,8 @@ Este repositório faz parte da disciplina de **Design Profissional** e foi criad
 - Branch `main`: versão final do projeto
 - Branch `feature/adiciona-conteudo`: desenvolvimento inicial (ver histórico de commits)
 
+## Contato
+- 💼 LinkedIn: (adicionar link)
+- 📧 Email: (adicionar email)
 ---
 *Repositório criado como atividade prática da disciplina de Design Profissional.*
