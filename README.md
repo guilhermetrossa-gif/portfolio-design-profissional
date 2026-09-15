@@ -19,6 +19,7 @@ Este repositório faz parte da disciplina de **Design Profissional** e foi criad
 - GitHub (branches, commits, pull requests)
 - Design de identidade profissional
 - LinkedIn e currículo profissional
+- Markdown e documentação técnica
 
 ## Certificação
 ✅ Trilha **GitHub Foundations** concluída — Microsoft Learn
